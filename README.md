@@ -26,7 +26,6 @@ These features are chosen as they provide valuable information for identifying s
 Data Preprocessing
 Before applying similarity algorithms, the missing values in the selected features are filled with empty strings to ensure compatibility. The selected features are then combined into a single column in the DataFrame, creating a textual representation of the movie details.
 
-
 Feature Vectorization
 To perform similarity calculations, the textual data is converted into numerical feature vectors using the TfidfVectorizer from the scikit-learn library. The TfidfVectorizer converts each entity in the vector (movie details) to a numerical representation.
 
