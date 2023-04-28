@@ -10,6 +10,7 @@ numpy: Required for numerical operations.
 pandas: Used for data manipulation and analysis.
 
 Data
+
 The project uses a movie dataset stored in a CSV file ('movies.csv'). The dataset contains information about various movies, including their titles, genres, keywords, taglines, cast, director, and more. The dataset is loaded into a pandas DataFrame for further processing.
 
 
