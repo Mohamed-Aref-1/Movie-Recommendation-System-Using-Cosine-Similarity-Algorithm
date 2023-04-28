@@ -42,7 +42,7 @@ To handle potential misspellings or variations in movie names entered by the use
 Once the closest match is found, the system retrieves the index of the movie with the matching title. Using this index, the similarity scores for that movie are obtained from the similarity matrix. The movies are then sorted based on their similarity scores in descending order.
 
 
-# 8
+# 8 suggestions 
 The system suggests the top 10 movies with the highest similarity scores as recommendations for the user. The movie recommendations are displayed to the user along with their corresponding ranks.
 
 # 9 Usage
