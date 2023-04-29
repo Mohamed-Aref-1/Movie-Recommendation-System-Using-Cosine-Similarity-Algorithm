@@ -1,4 +1,4 @@
-# Movie-Recommendation-System-
+# Movie-Recommendation-System-Using-Cosine-Similarity
 This is a project designed to provide movie recommendations based on user input. It utilizes techniques such as text similarity and cosine similarity to find similar movies and suggest them to the user. The system takes into account various features of movies, including genres, keywords, taglines, cast, and director, to determine similarity.
 
 #1 The project requires the following dependencies:
